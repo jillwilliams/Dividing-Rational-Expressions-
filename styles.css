@@ -1,0 +1,80 @@
+body {
+    margin: 25px 25px;
+    background-color: purple;
+    font-family: "Indie Flower";
+    letter-spacing: 3px;
+    font-size: 1.7rem;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+#p1 {
+    text-align: center;
+}
+a {
+    color: yellow;
+}
+#pic1, #pic6, #pic7 {
+    width: 30%;
+    height: auto;
+    border: 1px white solid;
+    outline: 2px black solid;
+    margin: 15px 35%;
+}
+#pic2, #pic3, #pic4, #pic5 {
+    width: 40%;
+    height: auto;
+    border: 1px white solid;
+    outline: 2px black solid;
+    margin: 15px 30%;
+}
+#answer1, #answer2 {
+    width: 20%;
+    height: 70px;
+    text-align: center;
+    margin: 15px 40%;
+    border: 1px white solid;
+    outline: 2px black solid;
+    background-color: lightgoldenrodyellow;
+    font-family: "Indie Flower";
+    font-size: 1.5rem;
+}
+#myBtn {
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    margin: 15px 45%;
+    border: 1px white solid;
+    outline: 2px black solid;
+    background-color: lightgoldenrodyellow;
+    font-family: "Indie Flower";
+    font-size: 1.5rem;
+}
+#demo, #demo2 {
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    margin: 15px 40%;
+    border: 1px white solid;
+    outline: 2px black solid;
+    background-color: lightgoldenrodyellow;
+    font-family: "Indie Flower";
+    font-size: 1.5rem;
+    padding: 15px;
+    color: black;
+    text-shadow: none;
+}
+iframe {
+    margin: 15px 33%;
+    border: 1px white solid;
+    outline: 2px black solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
